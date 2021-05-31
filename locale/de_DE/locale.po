@@ -12,16 +12,16 @@ msgstr ""
 "Language: \n"
 
 msgid "plugins.generic.forthcoming.displayName"
-msgstr "Vorveröffentlichungs-Plugin"
+msgstr "Plugin für bevorstehende Artikel"
 
 msgid "plugins.generic.forthcoming.description"
-msgstr "Dieses Plugin unterstützt die Vorveröffentlichung von Artikeln in OJS."
+msgstr "Dieses Plugin erlaubt die Vorabveröffentlichung von Artikeln in OJS."
 
 msgid "plugins.generic.forthcoming.pageTitle"
-msgstr "Vorveröffentlichung"
+msgstr "bevorstehend"
 
 msgid "plugins.generic.forthcoming.settings.description"
-msgstr "Wählen Sie eine Ausgabe für die Vorveröffentlichung"
+msgstr "Wählen Sie die bevorstehende Ausgabe."
 
 msgid "plugins.generic.forthcoming.label"
-msgstr "Vorveröffentlichung"
+msgstr "bevorstehend"
